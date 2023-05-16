@@ -1,0 +1,1 @@
+declare const Stat  : (msg : string,scope : "test"|"prd")=>void
